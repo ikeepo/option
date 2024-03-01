@@ -3,6 +3,6 @@
 - name: About
   link: /option/about.html
 - name: Blog
-  link: /blog.html
+  link: /option/blog.html
 - name: Staff
-  link: /staff.html
+  link: /option/staff.html
