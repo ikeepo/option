@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>海通期货CTP接口穿透测试</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="option" />
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>海通期货CTP接口穿透测试 | option</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="海通期货CTP接口穿透测试" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="期权知识" />
+<meta property="og:description" content="期权知识" />
+<link rel="canonical" href="http://localhost:4000/refs/%E6%B5%B7%E9%80%9A%E6%9C%9F%E8%B4%A7CTP%E6%8E%A5%E5%8F%A3.html" />
+<meta property="og:url" content="http://localhost:4000/refs/%E6%B5%B7%E9%80%9A%E6%9C%9F%E8%B4%A7CTP%E6%8E%A5%E5%8F%A3.html" />
+<meta property="og:site_name" content="option" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="海通期货CTP接口穿透测试" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"期权知识","headline":"海通期货CTP接口穿透测试","url":"http://localhost:4000/refs/%E6%B5%B7%E9%80%9A%E6%9C%9F%E8%B4%A7CTP%E6%8E%A5%E5%8F%A3.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+	<nav>
+	
+		<a href="/option" >
+			Home
+		</a>
+	
+		<a href="/option/about.html" >
+			About
+		</a>
+	
+		<a href="/option/blog.html" >
+			Blog
+		</a>
+	
+		<a href="/option/staff.html" >
+			Staff
+		</a>
+	
+</nav>
+
+    	<h2 id="海通期货ctp接口穿透测试">海通期货CTP接口穿透测试</h2>
+<h2 id="流程">流程</h2>
+<ol>
+  <li>找客户经理A申请，转给穿透测试专职处理人员B</li>
+  <li>在<a href="https://www.htfutures.com/main/gw/index.shtml">海通期货官网</a>申请仿真开户，次日收到仿真账户</li>
+  <li>按照B给的手册，通过仿真账户申请仿真环境，几个小时后收到仿真环境相关信息短信</li>
+  <li>此时尚无法登录成功，T+1日仿真数据库才有这个账号信息，当日夜盘就是T+1</li>
+  <li>登录时提示首次登录需要修改密码，但是vnpy没有可以提供代码修改的地方</li>
+  <li>咨询客服说可以通过海通官网–下载中心–仿真软件–快期修改，未测试；查询找到handewo写的一个<a href="https://github.com/handewo/CTP-update-password">脚本</a>，成功修改密码；</li>
+  <li>此时已经过了交易时间，显示“委托失败，代码21，信息：CTP：该交易席位未连接到交易所”，不知道是不是因为非交易时间，等待下周确认</li>
+</ol>
+
+<h2 id="refs">Refs</h2>
+<ol>
+  <li><a href="https://zhuanlan.zhihu.com/p/561372836">海通期货 CTP 穿透式测试踩坑实录</a></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/67758466">看完这篇，彻底搞定期货穿透式CTP API接入</a></li>
+</ol>
+
+  </body>
+</html>
