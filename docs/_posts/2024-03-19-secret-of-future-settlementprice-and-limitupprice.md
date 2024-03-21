@@ -9,6 +9,8 @@ categories: jekyll update
 
 这种场景是认为主力控盘，当结算价太低，今日涨停的幅度是无效的，因为次日从较低的结算价起步。  
 
+主力可以用此提前布局次日走势，掌控情绪；  
+
 如果逻辑成立，此时打开的涨停板会被再次封住。20240318的ru2405即如此。  
 
 <img src="https://raw.githubusercontent.com/ikeepo/option/master/docs/assets/img/20240318-ru2404.png" alt="Image" width="250" height="444.66" align="center" />
