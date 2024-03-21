@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 期权世界
-email: your-email@example.com
+email: ikeepo@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   关乎期权的一切
 baseurl: "/option" # the subpath of your site, e.g. /blog
