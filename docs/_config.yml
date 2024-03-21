@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   关乎期权的一切
 baseurl: "/option" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ikeepo
+# twitter_username: 
 github_username:  ikeepo
 
 # Build settings
