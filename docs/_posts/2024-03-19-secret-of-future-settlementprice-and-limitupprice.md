@@ -11,4 +11,4 @@ categories: jekyll update
 
 如果逻辑成立，此时打开的涨停板会被再次封住。20240318的ru2405即如此。  
 
-<img src="https://raw.githubusercontent.com/ikeepo/option/master/docs/assets/img/20240318-ru2404.png" alt="Image" width="125" height="222.33" align="center" />
+<img src="https://raw.githubusercontent.com/ikeepo/option/master/docs/assets/img/20240318-ru2404.png" alt="Image" width="250" height="444.66" align="center" />
