@@ -1,10 +1,8 @@
 ---
 layout: page
-title: quiz
+title: 期权知识测试
 permalink: /quiz/
 ---
-
-## 期权知识测试
 
 > [点此进入](https://ikeepo.github.io/option_quiz/)   
 
