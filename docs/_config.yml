@@ -33,13 +33,13 @@ theme: minima
 # theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "期权知识测试"
-    url: "https://ikeepo.github.io/option_quiz/"
-  - title: "About"
-    url: "/about"
+# nav:
+#   - title: "Home"
+#     url: "/"
+#   - title: "期权知识测试"
+#     url: "https://ikeepo.github.io/option_quiz/"
+#   - title: "About"
+#     url: "/about"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
