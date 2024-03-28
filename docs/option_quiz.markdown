@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 期权知识测试
+title: 期权开户题库
 permalink: /quiz/
 ---
 
