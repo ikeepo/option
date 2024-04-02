@@ -10,7 +10,8 @@ categories: jekyll update
 [真格量化](https://quant.pobo.net.cn/login#/): 彭博财经推出的量化平台，专注期货期权；   
 
 [China Financial Futures Exchange](http://www.cffex.com.cn/lssjxz/)；   
-
+## 课程
+- [CME Group芝商所期权课程](https://www.cmegroup.com/cn-s/education/courses/option-strategies.html)
 ## 交易所
 - [上期所](https://www.shfe.com.cn)
 - [大商所](http://www.dce.com.cn)
