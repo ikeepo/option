@@ -21,6 +21,7 @@ categories: jekyll update
 - [上能中心](https://www.ine.cn)
 - [上交所](http://www.sse.com.cn)
 - [深交所](https://www.szse.cn)
+- [深交所-期权子网站](http://www.szse.cn/option/)
 ## ctp
 - [openctp](https://github.com/openctp/openctp)
 
