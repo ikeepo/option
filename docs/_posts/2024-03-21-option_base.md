@@ -16,9 +16,9 @@ categories: jekyll update
 ## 如何判断一个期权是否会自动行权，美欧式，是否夜盘？
 分开看，夜盘其实是看标的，准确说是期货是否夜盘；  
 夜盘与美欧式可以通过交易所网站上这个品种的合约规则确定。
-![img](../assets/img/EB_rules.jpg)
+![img](/assets/img/EB_rules.jpg)
 
 但是合约规则中并没有定义是否自动行权。  
 是否自动行权定义在交易所期权交易管理办法中。  
 也就是说，是否自动行权，是交易所层面确定，当然不排除特殊情况。  
-![img](../assets/img/dss_option_exercise.jpg)
+![img](/assets/img/dss_option_exercise.jpg)
