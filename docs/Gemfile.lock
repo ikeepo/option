@@ -1,4 +1,5 @@
 GEM
+  remote: https://mirrors.tuna.tsinghua.edu.cn/rubygems/
   remote: https://rubygems.org/
   specs:
     activesupport (7.1.3.2)
@@ -224,6 +225,8 @@ GEM
       uri
     nokogiri (1.16.2-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.16.2-x86_64-linux)
+      racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
@@ -262,11 +265,13 @@ GEM
 
 PLATFORMS
   arm64-darwin
+  x86_64-linux
 
 DEPENDENCIES
   github-pages (~> 231)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag (~> 2.8)
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data
