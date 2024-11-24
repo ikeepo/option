@@ -24,4 +24,4 @@ categories: jekyll update
 | 作者| 书籍名称| 内容概述|
 | ----------- | ---------------- | -------------------- |
 | [ROY SEBAG](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RoySebag.md) | [The Natural Order of Money](https://www.naturalorderofmoney.com/) | [Jordan Peterson Interview](https://www.youtube.com/watch?v=BHu5h26c4nc&t=196s) |
-|[Gary Stevenson](https://github.com/ikeepo/option/blob/master/docs/assets/biography/GaryStevenson.md)|[The Trading Game](https://github.com/ikeepo/option/blob/master/docs/assets/book/GaryStevenson-TheTradingGame_AConfession.pdf)||
+|[Gary Stevenson](https://github.com/ikeepo/option/blob/master/docs/assets/biography/GaryStevenson.md)|[The Trading Game](https://github.com/ikeepo/option/blob/master/docs/assets/book/GaryStevenson-TheTradingGame_AConfession-p.pdf)||
