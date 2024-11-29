@@ -25,3 +25,4 @@ categories: jekyll update
 | ----------- | ---------------- | -------------------- |
 | [ROY SEBAG](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RoySebag.md) | [The Natural Order of Money](https://www.naturalorderofmoney.com/) | [Jordan Peterson Interview](https://www.youtube.com/watch?v=BHu5h26c4nc&t=196s) |
 |[Gary Stevenson](https://github.com/ikeepo/option/blob/master/docs/assets/biography/GaryStevenson.md)|[The Trading Game](https://github.com/ikeepo/option/blob/master/docs/assets/book/GaryStevenson-TheTradingGame_AConfession-p.pdf)||
+|[Richard Rainwater](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RichardRainwater.md)||You don't need to be old to tb right|
