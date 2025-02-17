@@ -22,16 +22,9 @@ categories: jekyll update
 
 ## Others
 
-<<<<<<< HEAD
-| 作者| 书籍名称| 内容概述|
-| ----------- | ---------------- | -------------------- |
-| [ROY SEBAG](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RoySebag.md) | [The Natural Order of Money](https://www.naturalorderofmoney.com/) | [Jordan Peterson Interview](https://www.youtube.com/watch?v=BHu5h26c4nc&t=196s) |
-|[Gary Stevenson](https://github.com/ikeepo/option/blob/master/docs/assets/biography/GaryStevenson.md)|[The Trading Game](https://github.com/ikeepo/option/blob/master/docs/assets/book/GaryStevenson-TheTradingGame_AConfession-p.pdf)||
-|[Richard Rainwater](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RichardRainwater.md)||You don't need to be old to tb right|
-=======
-| 作者                                                                                                  | 书籍名称                                                                                                                         | 内容概述                                                                        |
-| ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [ROY SEBAG](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RoySebag.md)           | [The Natural Order of Money](https://www.naturalorderofmoney.com/)                                                               | [Jordan Peterson Interview](https://www.youtube.com/watch?v=BHu5h26c4nc&t=196s) |
-| [Gary Stevenson](https://github.com/ikeepo/option/blob/master/docs/assets/biography/GaryStevenson.md) | [The Trading Game](https://github.com/ikeepo/option/blob/master/docs/assets/book/GaryStevenson-TheTradingGame_AConfession-p.pdf) |                                                                                 |
-| [Scott Bessent](https://github.com/ikeepo/option/blob/master/docs/assets/biography/ScottBessent.md)   |                                                                                                                                  |                                                                                 |
->>>>>>> 874d9fdbce3a61f56cce289701220c2a8dd6e5b0
+| 作者                                                                                                        | 书籍名称                                                                                                                         | 内容概述                                                                        |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [ROY SEBAG](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RoySebag.md)                 | [The Natural Order of Money](https://www.naturalorderofmoney.com/)                                                               | [Jordan Peterson Interview](https://www.youtube.com/watch?v=BHu5h26c4nc&t=196s) |
+| [Richard Rainwater](https://github.com/ikeepo/option/blob/master/docs/assets/biography/RichardRainwater.md) |                                                                                                                                  | You don't need to be old to tb right                                            |
+| [Gary Stevenson](https://github.com/ikeepo/option/blob/master/docs/assets/biography/GaryStevenson.md)       | [The Trading Game](https://github.com/ikeepo/option/blob/master/docs/assets/book/GaryStevenson-TheTradingGame_AConfession-p.pdf) |                                                                                 |
+| [Scott Bessent](https://github.com/ikeepo/option/blob/master/docs/assets/biography/ScottBessent.md)         |                                                                                                                                  |                                                                                 |

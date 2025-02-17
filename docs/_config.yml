@@ -35,13 +35,15 @@ plugins:
   - jekyll-seo-tag
 # google_analytics: G-58RMZEMF00
 
-# nav:
-#   - title: "Home"
-#     url: "/"
-#   - title: "期权知识测试"
-#     url: "https://ikeepo.github.io/option_quiz/"
-#   - title: "About"
-#     url: "/about"
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "期权开户题库"
+    url: "https://ikeepo.github.io/option_quiz/"
+  - title: "各品种到期日"
+    url: "https://ikeepo.github.io/option_expiration_date/"
+  - title: "About"
+    url: "/about"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
