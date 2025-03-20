@@ -18,8 +18,10 @@ categories: jekyll update
 | George J. Fehling                                                                             | The Complete Guide to Option Selling                                                                                                                                                                 | 介绍期权卖出策略，讲解如何通过卖出期权赚取时间价值并进行风险管理。                |
 |                                                                                               |
 | 王海滨                                                                                        | 书太老，不合适了                                                                                                                                                                                     | 中文世界少有的投资三观                                                            |
-| 小马                                                                                          | 小马白话期权                                                                                                                                                                                         | 散户起家，期权产品化                                                              |
-
+| 小马    | 小马白话期权       |                        | | 
+| [Colin A.Carter](https://en.wikipedia.org/wiki/Colin_Carter) | 农产品教授，研究农产品供应链及价格机制 | 农产品定价| |
+| [Craig Pirrong](https://streetwiseprofessor.com/) | 大宗商品市场结构，交易策略、风控 | 金融学教授，streetwise professor |  |
+| 
 ## Others
 
 | 作者                                                                                                        | 书籍名称                                                                                                                         | 内容概述                                                                        |
