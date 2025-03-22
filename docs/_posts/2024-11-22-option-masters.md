@@ -24,7 +24,11 @@ categories: jekyll update
 | [Scott Irwin](https://x.com/scottirwinui?lang=en) | 农产品期货、价格预测、投机行为 |  |   |  
 | [Hilary Till](https://www.bayes-cid.com/hilary-till/) | [独立研究员，实用研究]  |  |  |
 | [Jeffrey M. Christian](https://cpmgroup.com/biography-jmc/) | 贵金属和大宗商品市场研究机构CPM Group创始人  |  |  |
-
+| Lawrence G. McMillan | Options as a Strategic Investment|  | |
+| Sheldon Natenberg | Option Volatility and Pricing: Advanced Trading Strategies and Techniques |||
+| Dennis A. Chen| The Option Trader's Hedge Fund |||
+| Dan Passarelli| Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profit |||
+| Michael Benklifa | Think Like an Option Trader|||
 
 
 ## Others
