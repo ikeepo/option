@@ -19,6 +19,7 @@ categories: jekyll update
 |                                                                                               |
 | 王海滨                                                                                        | 书太老，不合适了                                                                                                                                                                                     | 中文世界少有的投资三观                                                            |
 | 小马    | 小马白话期权       |   实战                     | | 
+| 期权海狸 | 同名公众号 | 主做卖方，实战 | |
 | [Colin A.Carter](https://en.wikipedia.org/wiki/Colin_Carter) | 农产品教授，研究农产品供应链及价格机制 | 农产品定价| |
 | [Craig Pirrong](https://streetwiseprofessor.com/) | 大宗商品市场结构，交易策略、风控 | 金融学教授，streetwise professor |  |
 | [Scott Irwin](https://x.com/scottirwinui?lang=en) | 农产品期货、价格预测、投机行为 |  |   |  
