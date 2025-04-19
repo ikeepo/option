@@ -31,7 +31,10 @@ categories: jekyll update
 | Dan Passarelli| Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profit |||
 | Michael Benklifa | Think Like an Option Trader|||
 
-
+## Trader 
+|name | Intro | Link |
+|---|---|---|
+|Kristjan Kullamagi| Sweden Trader | [x](https://x.com/qullamaggie?lang=en) [web](https://qullamaggie.com/)|
 ## Others
 
 | 作者                                                                                                        | 书籍名称                                                                                                                         | 内容概述                                                                        |
