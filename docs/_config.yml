@@ -20,8 +20,9 @@
 
 title: 期权世界
 email: ikeepo@proton.me
-description: >- # this means to ignore newlines until "baseurl:"
-  关乎期权的一切
+description:  # this means to ignore newlines until "baseurl:"
+  ch: 关乎期权的一切
+  en: Every Aspect About Option
 baseurl: "/option" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
