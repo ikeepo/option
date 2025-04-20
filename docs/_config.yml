@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-jupyter-notebook
 # google_analytics: G-58RMZEMF00
 
 nav:

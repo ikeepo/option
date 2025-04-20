@@ -3,3 +3,6 @@ git_push:
 	git add -A
 	git commit -m "update"
 	git push -u $(REMOTE_REP_NAME) master
+
+local_serve:
+	cd docs && bundle exec jekyll serve
